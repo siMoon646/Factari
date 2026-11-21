@@ -1,0 +1,32 @@
+# Factari
+- A sandbox-simulation desktop video game inspired by Terraria, Factorio, and Satisfactory.
+## Overview
+- The player finds themselves in a crashed escape pod and they are surrounded by a hostile environment. The player's goal is to explore the video-game world and construct something that assists them in escaping that hostile environment. The player will have to explore and learn about the planet's history in order to escape.
+## Mechanics:
+- UI:
+	- Main menu:
+		- The first scene that a player will see. Players can pick and load an existing game-save from the main menu.
+	- Inventory:
+		- In-save. The player will access this interface to view what items they currently have on their player character.
+	- Crafting menu:
+		- In-save. The player will access this interface to view what items they currently can craft.  
+	- Hotbar:
+		- In-save. A subset of the player's inventory. Shows what objects a player can access without having to open their inventory.
+	- Status Bars (Health, Magic, etc.)
+		- In-save. Interface providing real-time information of the player's statuses.
+- Movement:
+	- Walk
+	- Run
+	- Sprint
+	- Jump
+	- Crouch
+	- Roll
+- Combat
+	- Melee
+	- Ranged
+- Environment:
+	- Toxic Gas:
+		- A contrasting gas that negatively effects the player. Intended to increase the stakes of exploration.
+	- Enemies:
+		- Different enemies spawn at different times of day.
+		- Wild fauna and flora of the alien planet may attack the player.
