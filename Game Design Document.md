@@ -30,8 +30,12 @@
 	- Enemies:
 		- Different enemies spawn at different times of day.
 		- Wild fauna and flora of the alien planet may attack the player.
+	- Construction:
+		- The player can use their resources to construct something in the game.
+	- Destruction: 
+		- The player can use their resources to destroy/harvest something in the game.
 
-Tooling:
+## Tooling:
 - Claude Code: Coding and learning assistant
 - Aseprite: Pixel-art software
 - Unity: Game engine
