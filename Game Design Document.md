@@ -30,3 +30,12 @@
 	- Enemies:
 		- Different enemies spawn at different times of day.
 		- Wild fauna and flora of the alien planet may attack the player.
+
+Tooling:
+- Claude Code: Coding and learning assistant
+- Aseprite: Pixel-art software
+- Unity: Game engine
+- C#: Scripting language
+- Audacity: Audio mixing software
+- LMMS: Music/SFX
+- Stable audio 3: Music/SFX
